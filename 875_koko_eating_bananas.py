@@ -5,6 +5,9 @@ Created on Fri Mar 10 00:07:10 2023
 @author: nikil
 """
 
+##Binary Search for minimum speed to complete the task
+##LeetCode problem 875 Koko eating bananas
+
 class Solution(object):
     def minEatingSpeed(self, piles, h):
         """
